@@ -40,4 +40,4 @@ All interactions use Selenium WebDriver, explicit waits, and proper element hand
 
 1. Clone the repository:  
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/afzazul-jaman/Ecommerce-Automation-Framework.git
